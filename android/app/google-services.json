@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762839496889",
+    "firebase_url": "https://completevision-34dea.firebaseio.com",
+    "project_id": "completevision-34dea",
+    "storage_bucket": "completevision-34dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762839496889:android:cd7568d4fa8959e7dc4368",
+        "android_client_info": {
+          "package_name": "com.vision.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762839496889-avr00v11q2fbrlr6gb0ir2766oecb3sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCrBATTueWIr-on0OUFpwobvTaapLZfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762839496889-avr00v11q2fbrlr6gb0ir2766oecb3sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
