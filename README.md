@@ -1,6 +1,6 @@
 # vision
 
-A new Flutter application.
+A #'compelete computer Vision' Flutter Mobile application.
 
 ## Getting Started
 
